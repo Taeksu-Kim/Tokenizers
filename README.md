@@ -31,5 +31,8 @@ https://github.com/huggingface/tokenizers/tree/main/bindings/python/py_src/token
 Sentencepiece를 이용하여 순서대로 Tokenizer를 만들고 싶을 경우 아래 링크 참고
 https://github.com/upskyy/upskyy.github.io/blob/76a6d9a9bb2d4049c5b2552b3c73fee538023f13/_posts/2021-08-19-thirds.md
 
-tokenizer_example.ipynb
-Huggingface의 Tokenizer를 약간 커스텀한 후 Mecab까지 사용한 Tokenizer 예제.
+## custom_tokenizer.py
+Huggingface의 Tokenizer를 약간 커스텀한 파일
+
+## tokenizer_example.ipynb
+커스텀한 Tokenizer + Mecab까지 사용한 Tokenizer 예제.
